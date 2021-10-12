@@ -1,0 +1,13 @@
+reviewers:
+  - jhadvig
+  - rhamilto
+  - spadgett
+approvers:
+  - bparees
+  - christianvogt
+  - jhadvig
+  - kdoberst
+  - rhamilto
+  - spadgett
+  - TheRealJon
+component: Management Console

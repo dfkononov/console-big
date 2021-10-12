@@ -1,0 +1,28 @@
+.nb-bc-modal {
+  max-height: 70vh;
+  overflow-y: scroll;
+
+  .modal-body {
+    background-color: var(--pf-global--BackgroundColor--100);
+  }
+
+  @media screen and (max-width: 426px) {
+    max-height: 73vh;
+  }
+
+  .co-m-nav-title {
+    padding: 0;
+    margin: 0;
+  }
+}
+
+.nb-edit-modal__save-btn {
+  margin-left: var(--pf-global--spacer--md);
+}
+
+.nb-modal {
+  width: 53%;
+  @media screen and (max-width: 426px) {
+    width: unset;
+  }
+}
